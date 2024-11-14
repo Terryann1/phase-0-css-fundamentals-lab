@@ -11,7 +11,7 @@ nav{
   padding: 10px;
   text-align: center; 
 }
-a{
+nav>a{
   background-color: grey;
 }
  
