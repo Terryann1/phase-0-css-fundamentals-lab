@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+
+nav{
+  padding: 10px;
+  text-align: center; 
+}
+a{
+  background-color: grey;
+}
+ 
+
+img{
+ 
+  justify-content: center;
+  width: 95%;
+ 
+
+}
+  
+
+#featured-property{
+  text-align: center;
+  width: 50%;
+  padding-left: 300px;
+}
+
+#details{
+  
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div{
+  text-align: center;
+  width: 25%;
+}
+
+
+ 
+
+
+
+
